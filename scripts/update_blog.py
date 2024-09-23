@@ -38,7 +38,7 @@ for entry in feed.entries:
 
         # 깃허브 커밋
         repo.git.add(file_path)
-        repo.git.commit('-m', f'Add post: {entry.title}\nCo-authored-by: rimgosu <newnyup@gmail.com>')
+        repo.git.commit('-m', f'Add post: {entry.title}')
 
 # 변경 사항을 깃허브에 푸시
 repo.git.push()
