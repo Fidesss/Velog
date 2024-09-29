@@ -1,3 +1,2 @@
 # Velog
-Test
-TEST
+Auto push velog post
