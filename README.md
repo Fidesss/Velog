@@ -1,3 +1,3 @@
 # Velog
 Auto push velog post
-using github Bot
+Using github Bot
